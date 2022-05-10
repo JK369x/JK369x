@@ -1,5 +1,11 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="300"/>
+  <div align='center'>
+<h1>
+  Eh yo 👨🏻‍💻,I'm doing here !
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+  </div>
+  <div align="center">
+  <img src="https://media.giphy.com/media/hi2kPofVMW70k/giphy.gif" width="500" height="300"/>
 </div>
 <div id="badges" align='center'>
   <a href="your-linkedin-URL">
@@ -15,17 +21,8 @@
 <div align='center'>
 <img src="https://komarev.com/ghpvc/?username=JK369x&style=flat-square&color=blue" alt=""/>
 </div>
-<div align='center'>
-<h1>
-  Eh yo 👨🏻‍💻,I'm doing here !
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-  </div>
-  
-  <div align="center">
-  <img src="https://media.giphy.com/media/hi2kPofVMW70k/giphy.gif" width="500" height="300"/>
-</div>
 
+  
 ---
 
 ### :woman_technologist: About Me : I am a Beginner Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Thailand.
@@ -54,6 +51,8 @@
 ---
 
 ### :fire: My Stats :
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="150"/>
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JK369x&theme=dark&background=000000)](https://git.io/streak-stats)
 
