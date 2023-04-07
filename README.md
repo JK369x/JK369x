@@ -8,15 +8,8 @@
   <img src="https://media.giphy.com/media/hi2kPofVMW70k/giphy.gif" width="500" height="300"/>
 </div>
 <div id="badges" align='center'>
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCTVdZL9eZpLY1owG-HOXx7g">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/JK369x">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+ 
+
 </div>
 <div align='center'>
 <img src="https://komarev.com/ghpvc/?username=JK369x&style=flat-square&color=blue" alt=""/>
@@ -32,9 +25,7 @@
 
 - :zap: In my free time, read tech articles and play game.
 
-- :mailbox:How to reach me:  <a href="https://twitter.com/JK369x">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" width='40' alt="Twitter Badge"/>
-  </a>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
